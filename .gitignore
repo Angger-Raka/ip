@@ -1,17 +1,17 @@
-# Configuration stuff
-/application/config/development
-/application/sessions
-/ipconfig.php
+# # Configuration stuff
+# /application/config/development
+# /application/sessions
 
-# Dependencies
-/node_modules
-/vendor
 
-# Other files
-/.htaccess
-.idea
-.sass-cache
-adminer.php
-/nbproject
-/.php_cs.cache
-/doc
+# # Dependencies
+# /node_modules
+# /vendor
+
+# # Other files
+# /.htaccess
+# .idea
+# .sass-cache
+# adminer.php
+# /nbproject
+# /.php_cs.cache
+# /doc
